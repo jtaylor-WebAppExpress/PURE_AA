@@ -6,7 +6,7 @@
         id        = "com.webappexpress.WAE_MOBILE_TESTSERVER"
         version   = "2.1.0">
 
-    <name>PURE_AA</name>
+    <name>WAE TEST SERVER - PURE Mobile</name>
 
     <description>
         An Alpha Anywhere / PhoneGap app which provides mobile fulfillment functionality to PURE
